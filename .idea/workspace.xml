@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c65c75-0d9a-4ae4-bb2e-73cd1737742e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/challenges/BiggerNumberAmongThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenges/BiggerNumberAmongTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenges/EvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenges/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenges/NumberSwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenges/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenges/VowelOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/IntegerReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/NumberSwapWithoutThirdVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/OddEvenSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/challenges/NumberSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/challenges/NumberSwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/challenges/Sum.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +40,8 @@
   }
 }]]></component>
   <component name="RunManager" selected="Application.MultiplicationTable">
-    <configuration name="BiggerNumberAmongThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.BiggerNumberAmongThree" />
+    <configuration name="IntegerReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.IntegerReverse" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +66,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.NumberSwap" />
+    <configuration name="NumberSwapWithoutThirdVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.NumberSwapWithoutThirdVariable" />
+      <module name="Batch-63" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddEvenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.OddEvenSum" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
@@ -94,26 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VowelOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.VowelOrNot" />
-      <module name="Batch-63" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="challenges.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.NumberSwapWithoutThirdVariable" />
+        <item itemvalue="Application.OddEvenSum" />
+        <item itemvalue="Application.IntegerReverse" />
         <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.VowelOrNot" />
-        <item itemvalue="Application.BiggerNumberAmongThree" />
-        <item itemvalue="Application.NumberSwap" />
       </list>
     </recent_temporary>
   </component>

@@ -21,5 +21,8 @@ public class NumberSwap {
 
             System.out.println("After swapping a,b: " + a + ", " + b);
         }
+        else {
+            System.out.println("These numbers are equal");
+        }
     }
 }
