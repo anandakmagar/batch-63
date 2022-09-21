@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c65c75-0d9a-4ae4-bb2e-73cd1737742e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cognizant/shapes/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/BiggerNumberAmongThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/BiggerNumberAmongTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/NumberSwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/VowelOrNot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +41,65 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cognizant.shapes.Shapes" />
+  <component name="RunManager" selected="Application.MultiplicationTable">
+    <configuration name="BiggerNumberAmongThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.BiggerNumberAmongThree" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cognizant.shapes.*" />
+          <option name="PATTERN" value="challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.MultiplicationTable" />
+      <module name="Batch-63" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.NumberSwap" />
+      <module name="Batch-63" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.Sum" />
+      <module name="Batch-63" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VowelOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.VowelOrNot" />
+      <module name="Batch-63" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,7 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Shapes" />
+        <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.Sum" />
+        <item itemvalue="Application.VowelOrNot" />
+        <item itemvalue="Application.BiggerNumberAmongThree" />
+        <item itemvalue="Application.NumberSwap" />
       </list>
     </recent_temporary>
   </component>
