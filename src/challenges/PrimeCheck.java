@@ -3,27 +3,32 @@ package challenges;
 import java.util.Scanner;
 
 public class PrimeCheck {
-    boolean prime = false;
-    static boolean primeCheck(int n){
-        for (int i = 2; i <= n/2; i++){
-            if (n%i == 0){
-                return false;
-            }
-        }
-        return true;
-    }
-
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
 
-        System.out.println("Enter your number upto which you want to check for the prime number");
+        System.out.println("Enter your number to check whether it is a prime number");
         int num = scnr.nextInt();
 
-        if (primeCheck(num)){
-            System.out.println("Its a PRIME");
+        boolean isPrime = true;
+        if(num <= 1) {
+            isPrime = false;
         }
         else {
-            System.out.println("Its NOT a prime");
+            for(int i = 2; i <= num/2; i++) {
+                if(num%i == 0) {
+                    isPrime = false;
+                }
+                else {
+                    isPrime = true;
+                }
+            }
+        }
+
+        if(isPrime == false) {
+            System.out.println("It is not a prime number");
+        }
+        if(isPrime == true) {
+            System.out.println("It is a prime number");
         }
     }
 }
