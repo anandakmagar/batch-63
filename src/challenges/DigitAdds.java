@@ -10,7 +10,7 @@ public class DigitAdds {
         int num = scnr.nextInt();
 
         int sum = 0;
-        while (num != 0){
+        while (num > 0){
             int remainder = num%10;
             sum = sum + remainder;
             num = num/10;

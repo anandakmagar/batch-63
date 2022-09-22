@@ -35,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HCFFind">
+  <component name="RunManager" selected="Application.DigitAdds">
     <configuration name="DigitAdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="challenges.DigitAdds" />
       <module name="Batch-63" />
@@ -88,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.PrimeCheck" />
+    <configuration name="IntegerReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.IntegerReverse" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DigitAdds" />
+        <item itemvalue="Application.IntegerReverse" />
         <item itemvalue="Application.HCFFind" />
         <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.FactorialValue" />
-        <item itemvalue="Application.PrimeCheck" />
-        <item itemvalue="Application.DigitAdds" />
       </list>
     </recent_temporary>
   </component>
