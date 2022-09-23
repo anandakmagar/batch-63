@@ -34,17 +34,27 @@ class A033{
     {
         System.out.println("IIB-A033");
     }
-
 }
 public class StaticInitializerBlock {
     static {
         System.out.println("SIB-Manager033");
     }
     public static void main(String[] args) {
-        System.out.println("Main Stared!");
+        System.out.println("Main Started!");
         System.out.println(A033.j);
         A033 a1 = new A033();
         System.out.println("Main Ends!!");
-
     }
 }
+
+/*
+    Outcome
+    -------
+    SIB-Manager033
+    Main Stared!
+    SIB-A033
+    100
+    IIB-A033
+    DC-A033
+    Main Ends!!
+ */
