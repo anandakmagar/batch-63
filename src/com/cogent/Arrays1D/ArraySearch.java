@@ -1,4 +1,4 @@
-package com.cogent.arrays;
+package com.cogent.Arrays1D;
 
 import java.util.Scanner;
 

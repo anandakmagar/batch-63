@@ -1,6 +1,5 @@
-package com.cogent.arrays;
+package com.cogent.Arrays1D;
 
-import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Iterator;
 

@@ -1,4 +1,4 @@
-package com.cogent.arrays;
+package com.cogent.Arrays1D;
 
 public class ArraySortAscending {
     public static void main(String[] args) {

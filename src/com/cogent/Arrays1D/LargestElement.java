@@ -1,6 +1,4 @@
-package com.cogent.arrays;
-
-import java.util.Scanner;
+package com.cogent.Arrays1D;
 
 public class LargestElement {
     public static void main(String[] args) {

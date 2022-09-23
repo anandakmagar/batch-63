@@ -1,7 +1,6 @@
-package com.cogent.arrays;
+package com.cogent.Arrays1D;
 
 import java.util.HashSet;
-import java.util.Iterator;
 
 public class ArrayCommonElements {
     public static void main(String[] args) {
