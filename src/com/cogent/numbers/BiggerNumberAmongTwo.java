@@ -1,4 +1,4 @@
-package challenges;
+package com.cogent.numbers;
 
 import java.util.Scanner;
 
@@ -14,7 +14,7 @@ public class BiggerNumberAmongTwo {
         boolean result = a < b;
         boolean result2 = a == b;
         if (result){
-            System.out.println("Second number " + b + " is bigger than " + a);
+            System.out.println("Second number " + b + " is bigger than first number" + a);
         }
         else if (result2){
             System.out.println("These numbers are equal");

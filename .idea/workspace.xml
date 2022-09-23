@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c65c75-0d9a-4ae4-bb2e-73cd1737742e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/challenges/HCFFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cogent/arrays/ArrayCommonElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cogent/arrays/ArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cogent/arrays/ArraySortAscending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cogent/arrays/ArraySortDescending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cogent/arrays/ArraysMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cogent/arrays/DuplicatesRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cogent/arrays/LargestElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/challenges/BiggerNumberAmongThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/numbers/BiggerNumberAmongThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/challenges/BiggerNumberAmongTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/numbers/BiggerNumberAmongTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/challenges/DigitAdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/numbers/DigitAdds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/challenges/EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/numbers/EvenOrOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/challenges/FactorialValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/numbers/FactorialValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/challenges/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/numbers/FibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/challenges/HCFFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/numbers/HCFFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/challenges/IntegerReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/numbers/IntegerReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/challenges/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/numbers/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/challenges/NumberSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/numbers/NumberSwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/challenges/NumberSwapWithoutThirdVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/numbers/NumberSwapWithoutThirdVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/challenges/OddEvenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/numbers/OddEvenSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/challenges/PrimeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/numbers/PrimeCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/challenges/VowelOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/numbers/VowelOrNot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +53,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DigitAdds">
-    <configuration name="DigitAdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.DigitAdds" />
+  <component name="RunManager" selected="Application.ArrayCopy">
+    <configuration name="ArrayCommonElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cogent.arrays.ArrayCommonElements" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.*" />
+          <option name="PATTERN" value="com.cogent.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.FactorialValue" />
+    <configuration name="ArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cogent.arrays.ArrayCopy" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.*" />
+          <option name="PATTERN" value="com.cogent.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.FibonacciSeries" />
+    <configuration name="ArraysMerge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cogent.arrays.ArraysMerge" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.*" />
+          <option name="PATTERN" value="com.cogent.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HCFFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.HCFFind" />
+    <configuration name="DuplicatesRemove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cogent.arrays.DuplicatesRemove" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.*" />
+          <option name="PATTERN" value="com.cogent.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.IntegerReverse" />
+    <configuration name="M" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cogent.arrays.M" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.*" />
+          <option name="PATTERN" value="com.cogent.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DigitAdds" />
-        <item itemvalue="Application.IntegerReverse" />
-        <item itemvalue="Application.HCFFind" />
-        <item itemvalue="Application.FibonacciSeries" />
-        <item itemvalue="Application.FactorialValue" />
+        <item itemvalue="Application.ArrayCopy" />
+        <item itemvalue="Application.ArrayCommonElements" />
+        <item itemvalue="Application.ArraysMerge" />
+        <item itemvalue="Application.DuplicatesRemove" />
+        <item itemvalue="Application.M" />
       </list>
     </recent_temporary>
   </component>

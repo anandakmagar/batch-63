@@ -1,4 +1,4 @@
-package challenges;
+package com.cogent.numbers;
 
 
 import java.util.Scanner;
