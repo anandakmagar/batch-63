@@ -1,4 +1,4 @@
-package com.cogent.Arrays1D;
+package com.cogent.arrays1D;
 
 import java.util.HashSet;
 import java.util.Iterator;

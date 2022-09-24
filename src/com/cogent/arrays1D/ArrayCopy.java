@@ -1,4 +1,4 @@
-package com.cogent.Arrays1D;
+package com.cogent.arrays1D;
 
 public class ArrayCopy {
     public static void main(String[] args) {
