@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c65c75-0d9a-4ae4-bb2e-73cd1737742e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cogent/arrays2D/Array2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cogent/arrays2D/MatricesAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/school/SchoolManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/school/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cogent/Arrays1D/ArrayCommonElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/arrays1D/ArrayCommonElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cogent/Arrays1D/ArrayCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/arrays1D/ArrayCopy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cogent/Arrays1D/ArraySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/arrays1D/ArraySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cogent/Arrays1D/ArraySortAscending.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/arrays1D/ArraySortAscending.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cogent/Arrays1D/ArraySortDescending.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/arrays1D/ArraySortDescending.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cogent/Arrays1D/ArraysMerge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/arrays1D/ArraysMerge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cogent/Arrays1D/DuplicatesRemove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/arrays1D/DuplicatesRemove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cogent/Arrays1D/LargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cogent/arrays1D/LargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/app/bean/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/app/bean/Customer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +38,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MatricesAdd">
+  <component name="RunManager" selected="Application.SchoolManagement">
     <configuration name="Array2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cogent.arrays2D.Array2D" />
       <module name="Batch-63" />
@@ -85,6 +78,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SchoolManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.school.SchoolManagement" />
+      <module name="Batch-63" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.school.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StaticInitializerBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cogent.notes.StaticInitializerBlock" />
       <module name="Batch-63" />
@@ -98,26 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cogent.strings.StringReverse" />
-      <module name="Batch-63" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cogent.strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SchoolManagement" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MatricesAdd" />
         <item itemvalue="Application.Array2D" />
         <item itemvalue="Application.StaticInitializerBlock" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.StringReverse" />
       </list>
     </recent_temporary>
   </component>
