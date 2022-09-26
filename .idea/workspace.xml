@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c65c75-0d9a-4ae4-bb2e-73cd1737742e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge009.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/school/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/school/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +44,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SchoolManagement">
-    <configuration name="Array2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cogent.arrays2D.Array2D" />
+  <component name="RunManager" selected="Application.Challenge009">
+    <configuration name="Challenge006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.Challenge006" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cogent.arrays2D.*" />
+          <option name="PATTERN" value="com.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.app.client.Main" />
+    <configuration name="Challenge007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.Challenge007" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.app.bean.*" />
+          <option name="PATTERN" value="com.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatricesAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cogent.arrays2D.MatricesAdd" />
+    <configuration name="Challenge008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.Challenge008" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cogent.arrays2D.*" />
+          <option name="PATTERN" value="com.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchoolManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.school.SchoolManagement" />
+    <configuration name="Challenge009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.Challenge009" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.school.*" />
+          <option name="PATTERN" value="com.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticInitializerBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cogent.notes.StaticInitializerBlock" />
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cogent.numbers.FibonacciSeries" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cogent.notes.*" />
+          <option name="PATTERN" value="com.cogent.numbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SchoolManagement" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MatricesAdd" />
-        <item itemvalue="Application.Array2D" />
-        <item itemvalue="Application.StaticInitializerBlock" />
+        <item itemvalue="Application.Challenge009" />
+        <item itemvalue="Application.Challenge008" />
+        <item itemvalue="Application.FibonacciSeries" />
+        <item itemvalue="Application.Challenge007" />
+        <item itemvalue="Application.Challenge006" />
       </list>
     </recent_temporary>
   </component>
@@ -133,5 +141,25 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/practice/Challenge004.java</url>
+          <line>29</line>
+          <properties class="com.practice.Challenge004" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/Challenge007.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
