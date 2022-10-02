@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c65c75-0d9a-4ae4-bb2e-73cd1737742e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/app/CustomerManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cogent/iohandling/IOFileReading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cogent/iohandling/IOFileWriting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/Challenge010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/queueAndStackImplementation/StackImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syllabus/casting/DerivedCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syllabus/casting/InterfaceImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syllabus/casting/PrimitiveCasting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,20 +36,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Challenge009">
-    <configuration name="Challenge006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.Challenge006" />
+}</component>
+  <component name="RunManager" selected="Application.IOFileReading">
+    <configuration name="ArrayList01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ArrayList01" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.*" />
+          <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Challenge007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.Challenge007" />
+    <configuration name="IOFileReading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cogent.iohandling.IOFileReading" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.*" />
+          <option name="PATTERN" value="com.cogent.iohandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Challenge008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.Challenge008" />
+    <configuration name="IOFileWriting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cogent.iohandling.IOFileWriting" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.*" />
+          <option name="PATTERN" value="com.cogent.iohandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Challenge009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.Challenge009" />
+    <configuration name="InterfaceImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syllabus.casting.InterfaceImplementation" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.*" />
+          <option name="PATTERN" value="com.syllabus.casting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cogent.numbers.FibonacciSeries" />
+    <configuration name="StackImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.queueAndStackImplementation.StackImplementation" />
       <module name="Batch-63" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cogent.numbers.*" />
+          <option name="PATTERN" value="com.queueAndStackImplementation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Challenge009" />
-        <item itemvalue="Application.Challenge008" />
-        <item itemvalue="Application.FibonacciSeries" />
-        <item itemvalue="Application.Challenge007" />
-        <item itemvalue="Application.Challenge006" />
+        <item itemvalue="Application.IOFileReading" />
+        <item itemvalue="Application.IOFileWriting" />
+        <item itemvalue="Application.StackImplementation" />
+        <item itemvalue="Application.InterfaceImplementation" />
+        <item itemvalue="Application.ArrayList01" />
       </list>
     </recent_temporary>
   </component>
